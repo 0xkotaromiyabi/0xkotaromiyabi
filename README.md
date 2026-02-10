@@ -60,21 +60,6 @@ I study what software does to humans.
 
 ---
 
-## 📜 Philosophical Direction
-
-I’m interested in questions like:
-
-* What is identity in a pseudonymous world?
-* Can code become a moral structure?
-* Does decentralization change power, or only move it?
-* Is intelligence an architecture problem?
-* What happens when value, media, and governance live on-chain?
-
-Technology is not neutral.
-It is a force that reshapes how humans trust, speak, and organize.
-
----
-
 ## 🛠 Tech Stack (Living & Evolving)
 
 ```text
