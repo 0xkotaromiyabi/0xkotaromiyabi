@@ -1,16 +1,16 @@
 # 0xkotaromiyabi
 
-> *"Building systems, questioning systems, and listening to the silence between signals."*
+> *"Experimentalism."*
 
 ---
 
 ## 🧭 About
 
-I exist at the intersection of **code, philosophy, and infrastructure** — exploring how technology reshapes meaning, ownership, and human coordination.
+**code, philosophy, and infrastructure** — exploring how technology reshapes meaning, ownership, and human coordination.
 
 * 🧱 Web3 builder crafting decentralized systems
 * 🤖 AI tinkerer experimenting with models, agents, and local-first intelligence
-* 📡 Radio streaming infrastructure engineer (signal, voice, presence)
+* 📡 Radio streaming infrastructure engineer
 * 🎓 Blockchain educator translating complexity into understanding
 * 📖 Thinker in the philosophy of technology & on-chain society
 
