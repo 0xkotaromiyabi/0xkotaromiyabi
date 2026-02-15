@@ -14,8 +14,8 @@
 * 🎓 Blockchain educator translating complexity into understanding
 * 📖 Thinker in the philosophy of technology & on-chain society
 
-I don’t just build software.
-I study what software does to humans.
+I don’t just build app.
+I study what app does to humans.
 
 ---
 
